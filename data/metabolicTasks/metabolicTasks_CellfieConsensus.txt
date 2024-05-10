@@ -97,8 +97,8 @@
 				glycine[c]	1	1	fumarate[c]	1	1								
 				10-formyl-THF[c]	2	2	PPi[c]	2	2								
 				NADP+[c]	2	2	ADP[c]	7	7								
-				ATP[c]	9	9	H+[c]	14	14								
-				H2O[c]	4	4	Pi[c]	4	4								
+				ATP[c]	9	9	H+[c]	13	14								
+				H2O[c]	3	3	Pi[c]	4	4								
 				NAD+[c]	1	1	NADH[c]	1	1								
 				thioredoxin[c]	1	1	NADPH[c]	2	2								
 							AMP[c]	2	2								
