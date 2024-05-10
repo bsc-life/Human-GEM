@@ -1168,9 +1168,9 @@
 							GDP[c]	2	5								
 							H+[c]	0	7								
 	187	Biosynthesis of g3m8masn		G00006[r]	0.1	1	(alpha-D-Glucosyl)3-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)[r]	0.1	1								
-				dolichyl-phosphate-D-mannose[r]	0.4	4	NA[r]	0.7	7								
+				dolichyl-phosphate-D-mannose[r]	0.4	4	dolichyl-phosphate-D-mannose[r]	0.7	7								
 				dolichyl-D-glucosyl-phosphate[r]	0.3	3	H+[r]	8	14								
-				[protein]-L-asparagine[r]	1	1	NA[r]	0.1	1								
+				[protein]-L-asparagine[r]	1	1	dolichyl-phosphate-D-mannose[r]	0.1	1								
 				GDP-mannose[c]	0	3	GDP[c]	0	3								
 	188	Degradation of s2l2fn2m2masn		PA6[l]	1	1	mannose[l]	3	3								
 				H2O[l]	12	12	N-acetylneuraminate[l]	2	2								
