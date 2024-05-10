@@ -585,11 +585,10 @@
 				H+[m]	1	1	NADP+[m]	1	1								
 				NADPH[m]	1	1											
 	107	Conversion of lysine to L-2-Aminoadipate		lysine[e]	1	1	L-2-aminoadipate[c]	1	1								
-				H2O[e]	2	2	H2O2[e]	2	2								
+				H2O[e]	1	1	H2O2[e]	1	2								
 				O2[e]	2	2	NH4+[e]	1	1								
-				NADH[e]	1	1	H+[c]	1	1								
-				NAD+[c]	1	1	NAD+[e]	1	1								
-				H+[e]	0	1	NADH[c]	1	1								
+				NAD+[c]	1	1	NADH[c]	0	4								
+				H+[x]	1	1												
 	108	Methionine degradation		methionine[c]	1	1	cysteine[c]	1	1								
 				serine[c]	1	2	propanoyl-CoA[c]	1	1								
 				ATP[c]	2	2	ATP[m]	1	1								
