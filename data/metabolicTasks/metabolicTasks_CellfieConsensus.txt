@@ -106,13 +106,13 @@
 	16	Deoxyuridine triphosphate synthesis (dUTP)		glutamine[c]	1	1	glutamate[c]	1	1								
 				HCO3-[c]	1	1	dUTP[c]	1	1								
 				aspartate[c]	1	1	ubiquinol[m]	1	1								
-				ubiquinone[m]	1	1	H+[c]	5	5								
+				ubiquinone[m]	1	1	H+[c]	4	5								
 				glucose[c]	1	1	Pi[c]	2	2								
-				H2O[c]	1	1	ADP[c]	5	5								
 				ATP[c]	6	6	PPi[c]	1	1								
 				NADP+[c]	2	2	CO2[c]	2	2								
 				thioredoxin[c]	1	1	NADPH[c]	2	2								
 							AMP[c]	1	1								
+							ADP[c]	5	5								
 							oxidized thioredoxin[c]	1	1								
 	17	Deoxythymidine triphosphate synthesis (dTTP)		glutamine[c]	1	1	glutamate[c]	1	1								
 				HCO3-[c]	1	1	dTTP[c]	1	1								
