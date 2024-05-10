@@ -990,14 +990,14 @@
 							H+[c]	3	3								
 	166	Synthesis of palmitoyl-CoA		glucose[c]	4	4	palmitoyl-CoA[c]	1	1								
 				NADPH[c]	14	14	CO2[m]	15	15								
-				ATP[c]	3	3	H2O[c]	12	12								
+				ATP[c]	3	3	H2O[c]	11	11								
 				ADP[c]	1	1	NADP+[c]	14	14								
 				Pi[c]	1	1	NADH[c]	8	8								
 				NAD+[c]	8	8	NADH[m]	8	8								
 				NAD+[m]	8	8	AMP[c]	4	4								
 				CoA[c]	1	1	PPi[c]	4	4								
-				HCO3-[c]	7	7	H+[m]	8									
-				H+[c]	8												
+				HCO3-[c]	7	7	H+[m]	6	6								
+				H+[c]	8	8											
 	167	Taurochenodeoxycholate synthesis		cholesterol[r]	1	1	taurochenodeoxycholate[e]	1	1								
 				taurine[e]	1	1	propanoyl-CoA[e]	1	1								
 				CoA[e]	1	1	AMP[e]	1	1								
