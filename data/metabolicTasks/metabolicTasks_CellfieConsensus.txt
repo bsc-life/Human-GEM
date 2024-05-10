@@ -596,14 +596,14 @@
 				Pi[m]	1	1	AMP[c]	1	1								
 				FAD[m]	1	6	Pi[c]	1	1								
 				CoA[c]	1	1	PPi[c]	1	1								
-				NAD+[c]	2	2	FADH2[m]	1	6								
-				NAD+[m]	1	1	H2O[c]	1	1								
-				H2O[m]	1	1	NH4+[c]	1	2								
-							CO2[c]	3	5								
-							NADH[c]	2	2								
+				NAD+[c]	0	2	FADH2[m]	1	6								
+				NAD+[m]	0	2	H2O[c]	0	4								
+				H2O[m]	0	4	NH4+[c]	1	2								
+				H+[m]	0	0	CO2[c]	3	5								
+				H+[c]	0	1	NADH[c]	2	2								
 							NADH[m]	1	1								
-							H+[m]	1	1								
-							H+[c]	2	2								
+							H+[m]	0	4								
+							H+[c]	0	4								
 	109	S-adenosyl-L-methionine synthesis		methionine[c]	1	1	SAM[c]	1	1								
 				ATP[c]	1	1	Pi[c]	1	1								
 				H2O[c]	1	1	PPi[c]	1	1								
