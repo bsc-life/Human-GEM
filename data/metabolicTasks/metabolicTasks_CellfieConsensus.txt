@@ -405,13 +405,13 @@
 				NAD+[c]	6	6	AKG[m]	2	2								
 				ADP[c]	6	6	NADH[c]	6	6								
 				Pi[c]	6	6	ATP[c]	6	6								
-				H2O[m]	2	2	H2O[c]	6	6								
 				NAD+[m]	2	2	CO2[m]	4	4								
 				ATP[m]	4	4	NADH[m]	2	2								
 				HCO3-[m]	4	4	ADP[m]	4	4								
 				NH4+[m]	2	2	Pi[m]	4	4								
-							H+[m]	10	10								
+							H+[m]	8	8								
 							H+[c]	2	2								
+							H2O[c]	6	6								
 	73	Aspartate degradation		aspartate[c]	1	1	H2O[c]										
 				O2[c]			ATP[c]										
 				Pi[c]			CO2[c]										
