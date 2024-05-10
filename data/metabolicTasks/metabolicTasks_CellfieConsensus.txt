@@ -135,6 +135,7 @@
 	21	3'-Phospho-5'-adenylyl sulfate synthesis		sulfate[c]	1	1	PAPS[c]	1	1								
 				ATP[c]	2	2	ADP[c]	1	1								
 				H+[c]	1	1	PPi[c]	1	1								
+							H+[c]	1	1								
 	22	Degradation of adenine to urate		adenine[c]	1	1	urate[e]	1	1								
 				H2O[c]	2	2	NH4+[c]	1	1								
 				H+[c]	1	1	H2O2[e]	2	2								
