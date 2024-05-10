@@ -524,8 +524,8 @@
 	94	Glycine synthesis		glucose[c]	1	1	glycine[c]	2	2								
 				glutamate[c]	2	2	5,10-methylene-THF[c]	2	2								
 				NAD+[c]	4	4	AKG[c]	2	2								
-				H2O[c]	2	2	NADH[c]	4	4								
-				THF[c]	2	2	H+[c]	6	6								
+				THF[c]	2	2	NADH[c]	4	4								
+				H2O[c]	0	1	H+[c]	6	6								
 	95	Glycine degradation		glycine[c]	1	1	H2O[c]										
 				O2[c]			ATP[c]										
 				Pi[c]			CO2[c]										
