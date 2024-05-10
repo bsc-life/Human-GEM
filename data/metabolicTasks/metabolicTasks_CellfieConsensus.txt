@@ -1012,23 +1012,23 @@
 				NADPH[c]	1	1	H2O[x]	2	2								
 				NADPH[m]	3	3											
 				NADPH[r]	1	1											
-	168	Glycochenodeoxycholate synthesis		cholesterol[r]	1	1	glycochenodeoxycholate[e]	1	1								
-				glycine[e]	1	1	propanoyl-CoA[e]	1	1								
-				ATP[e]	1	1	AMP[e]	1	1								
-				FADH2[e]	1	1	PPi[e]	1	1								
-				CoA[e]	1	1	FAD[e]	1	1								
+	168	Glycochenodeoxycholate synthesis		cholesterol[r]	1	1	glycochenodeoxycholate[x]	1	1								
+				glycine[x]	1	1	propanoyl-CoA[x]	1	1								
+				ATP[x]	1	1	AMP[x]	1	1								
+				FADH2[x]	1	1	PPi[x]	1	1								
+				CoA[x]	1	1	FAD[x]	1	1								
 				NADPH[r]	1	1	H2O[r]	1	1								
-				NADPH[c]	1	1	H2O[e]	3	3								
-				NADPH[m]	3	3	H2O[m]	5	5								
-				NADPH[e]	1	1	NADP+[r]	1	1								
-				NAD+[r]	1	1	NADP+[e]	1	1								
+				NADPH[c]	1	1	H2O[x]	3	3								
+				NADPH[m]	3	3	H2O[m]	4	4								
+				NADPH[x]	1	1	NADP+[r]	1	1								
+				NAD+[r]	1	1	NADP+[x]	1	1								
 				NADH[c]	1	1	NADP+[c]	1	1								
 				H+[m]	2	2	NADP+[m]	3	3								
-				H+[e]	1	1	NADH[r]	1	1								
+				H+[x]	1	1	NADH[r]	1	1								
 				H+[c]	2	2	NAD+[c]	1	1								
 				O2[m]	3	3											
 				O2[r]	1	1											
-				O2[e]	2	2											
+				O2[x]	2	2											
 	169	tauro-cholate synthesis		cholesterol[r]	1	1	taurocholate[e]	1	1								
 				taurine[e]	1	1	propanoyl-CoA[e]	1	1								
 				CoA[e]	1	1	AMP[e]	1	1								
