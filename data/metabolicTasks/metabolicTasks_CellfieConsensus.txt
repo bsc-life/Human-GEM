@@ -706,9 +706,9 @@
 				O2[c]	1	1	CO2[c]	1	1								
 				H+[c]	1	1											
 	130	Tyrosine synthesis (need phenylalanine)		phenylalanine[c]	1	1	tyrosine[c]	1	1								
-				O2[c]	1	1	H2O[c]	1	1								
-				NADH[c]	1	1	NAD+[c]	1	1								
-							H+[c]	1	1								
+				O2[c]	2	2	H2O[c]	0	4								
+				NADH[c]	1	2	NAD+[c]	1	2								
+				H+[c]	4	4												
 	131	Tyrosine degradation		tyrosine[c]	1	1	H2O[c]										
 				O2[c]			ATP[c]										
 				Pi[c]			CO2[c]										
