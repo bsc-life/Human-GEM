@@ -467,15 +467,16 @@
 	84	Synthesis of taurine from cysteine		cysteine[c]	2	2	taurine[c]	2	2								
 				O2[c]	3	3	CO2[c]	2	2								
 	85	Glutamate synthesis		glucose[c]	1	1	glutamate[c]	1	1								
-				NAD+[c]	2	2	NADH[c]	2	2								
+				NAD+[c]	2	2	NADH[c]	2	3								
 				ADP[c]	2	2	ATP[c]	2	2								
 				Pi[c]	2	2	H2O[c]	2	2								
-				H2O[m]	1	1	CO2[m]	2	3								
-				NAD+[m]	1	1	NADH[m]	1	1								
+				NH4+[m]	1	1	CO2[m]	2	3								
+				NAD+[m]	1	1	NADH[m]	1	3								
 				ATP[m]	1	1	ADP[m]	1	1								
 				HCO3-[m]	1	2	Pi[m]	1	1								
-				NH4+[m]	1	1	H+[c]	1	1								
-				H+[m]	1	1											
+							H+[c]	1	1								
+							H+[m]	1	1								
+							H2O[m]	1	1								
 	86	Glutamate degradation		glutamate[c]	1	1	H2O[c]										
 				O2[c]			ATP[c]										
 				Pi[c]			CO2[c]										
