@@ -466,7 +466,6 @@
 				GSH[c]	2	2	GSSG[c]	1	1								
 	84	Synthesis of taurine from cysteine		cysteine[c]	2	2	taurine[c]	2	2								
 				O2[c]	3	3	CO2[c]	2	2								
-				H+[c]	4	4											
 	85	Glutamate synthesis		glucose[c]	1	1	glutamate[c]	1	1								
 				NAD+[c]	2	2	NADH[c]	2	2								
 				ADP[c]	2	2	ATP[c]	2	2								
