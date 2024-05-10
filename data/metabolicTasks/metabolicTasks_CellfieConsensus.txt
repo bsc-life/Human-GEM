@@ -954,9 +954,10 @@
 				H2O[c]			H+[c]										
 				O2[c]													
 	161	gamma-Linolenate synthesis		linoleate[c]	1	1	gamma-linolenate[c]	1	1								
-				NADH[c]	1	1	NAD+[c]	1	1								
-				H+[c]	1	1	H2O[c]	2	2								
-				O2[c]	1	1											
+				NADH[c]	0	2	NAD+[c]	0	2								
+				H+[c]	0	2	H2O[c]	0	2								
+				O2[c]	0	2	H+[c]	0	2								
+				H2O[c]	0	2													
 	162	gamma-Linolenate degradation		gamma-linolenate[c]	1	1	acetyl-CoA[c]	9	9								
 				ATP[c]			AMP[c]										
 				NAD+[c]			NADH[c]										
