@@ -117,9 +117,9 @@
 	17	Deoxythymidine triphosphate synthesis (dTTP)		glutamine[c]	1	1	glutamate[c]	1	1								
 				HCO3-[c]	1	1	dTTP[c]	1	1								
 				aspartate[c]	1	1	ubiquinol[m]	1	1								
-				ubiquinone[m]	1	1	H+[c]	6	6								
+				ubiquinone[m]	1	1	H+[c]	5	6								
 				glucose[c]	1	1	Pi[c]	3	3								
-				H2O[c]	2	2	ADP[c]	6	6								
+				H2O[c]	1	1	ADP[c]	6	6								
 				ATP[c]	7	7	PPi[c]	1	1								
 				NADP+[c]	2	2	CO2[c]	2	2								
 				thioredoxin[c]	1	1	NADPH[c]	2	2								
