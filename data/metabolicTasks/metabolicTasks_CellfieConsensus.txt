@@ -504,8 +504,8 @@
 				ATP[m]	1	1	ADP[m]	1	1								
 				HCO3-[m]	1	2	Pi[m]	1	1								
 				NH4+[m]	1	1	H+[c]	2	2								
-				NH4+[c]													
-				H+[m]													
+				NH4+[c]			H2O[m]	1	1								
+				H+[m]	0	2	H+[m]   2   2								
 	91	Glutamine degradation		glutamine[c]	1	1	H2O[c]										
 				O2[c]			ATP[c]										
 				Pi[c]			CO2[c]										
