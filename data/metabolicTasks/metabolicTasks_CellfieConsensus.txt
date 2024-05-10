@@ -837,18 +837,19 @@
 				linolenate[c]	0		CO2[m]	0	32								
 				linoleate[c]	0		H+[m]	0	32								
 				O2[c]	0												
-	148	Triacylglycerol synthesis		glucose[c]	0	12.5	TAG-VLDL pool[c]	1	1								
-				NADPH[c]	0	42	CO2[c]	0	21								
+	148	Triacylglycerol synthesis		glucose[c]	0	16	TAG-VLDL pool[c]	1	1								
+				NADPH[c]	0	52	CO2[c]	0	21								
 				NAD+[c]	0	23	H2O[c]	0	32								
-				NAD+[m]	0	24	NADP+[c]	0	42								
-				H+[c]	0	18	NADH[c]	0	23								
-				ATP[c]	0	10	NADH[m]	0	24								
-				HCO3-[c]	0	21	ADP[c]	0	9								
-				linolenate[c]	0		Pi[c]	0	9								
-				linoleate[c]	0		AMP[c]	0	12								
-				O2[c]	0		PPi[c]	0	12								
-							H+[m]	0	24								
-							CO2[m]	0	24								
+				NAD+[m]	0	24	NADP+[c]	0	52								
+				H+[m]	0	30	NADH[c]	0	23								
+				ATP[c]	0	15	NADH[m]	0	24								
+				HCO3-[c]	0	21	ADP[c]	0	15								
+				linolenate[c]	0	10	Pi[c]	0	26								
+				linoleate[c]	0	10	AMP[c]	0	26								
+				O2[c]	0		PPi[c]	0	32								
+				H2O[c]	0	30	H+[c]	0	30								
+				H+[c]	0	30	CO2[m]	0	34								
+							H2O[c]	0	30								
 	149	Sphingomyelin synthesis		glucose[c]	1	8	SM pool[c]	1	1								
 				NADPH[c]	0	28	CO2[c]	0	15								
 				ATP[c]	0	6	H2O[c]	0	22								
