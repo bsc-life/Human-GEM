@@ -142,10 +142,10 @@
 				O2[e]	2	2	ribose-1-phosphate[c]	1	1								
 				PRPP[c]	1	1	PPi[c]	1	1								
 				H2O[e]	2	2											
-	23	Degradation of guanine to urate		guanine[c]	1	1	urate[e]	1	1								
-				H2O[e]	1	1	NH4+[c]	1	1								
-				H2O[c]	1	1	NADH[e]	1	1								
-				NAD+[e]	1	1	H+[e]	0	1								
+	23	Degradation of guanine to urate		guanine[c]	1	1	urate[x]	1	1								
+				H2O[x]	1	1	NH4+[c]	1	1								
+				H2O[c]	1	1	NADH[x]	1	1								
+				NAD+[x]	1	1	H+[x]	0	1								
 	24	Degradation of cytosine		cytosine[c]	1	1	beta-alanine[c]	1	1								
 				H2O[c]	3	3	CO2[c]	1	1								
 				H+[c]	3	3	NH4+[c]	2	2								
