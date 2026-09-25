@@ -505,7 +505,7 @@
 				HCO3-[m]	1	2	Pi[m]	1	1								
 				NH4+[m]	1	1	H+[c]	2	2								
 				NH4+[c]			H2O[m]	1	1								
-				H+[m]	0	2	H+[m]   2   2								
+				H+[m]	0	2	H+[m]	2	2								
 	91	Glutamine degradation		glutamine[c]	1	1	H2O[c]										
 				O2[c]			ATP[c]										
 				Pi[c]			CO2[c]										
@@ -849,7 +849,6 @@
 				O2[c]	0		PPi[c]	0	32								
 				H2O[c]	0	30	H+[c]	0	30								
 				H+[c]	0	30	CO2[m]	0	34								
-							H2O[c]	0	30								
 	149	Sphingomyelin synthesis		glucose[c]	1	8	SM pool[c]	1	1								
 				NADPH[c]	0	28	CO2[c]	0	15								
 				ATP[c]	0	6	H2O[c]	0	22								
